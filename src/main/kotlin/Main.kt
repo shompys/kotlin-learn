@@ -50,5 +50,7 @@ fun main (args: Array<String>) {
     //tryCatch()
     // arr()
     // dataEntry()
-    triggerClasses()
+    // triggerClasses()
+    // triggerclasses2()
+    lists()
 }
