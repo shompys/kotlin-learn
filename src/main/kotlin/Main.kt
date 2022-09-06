@@ -1,9 +1,3 @@
-import structuresControl
-import nullSafety
-import tryCatch
-import arr
-import clases.User
-import dataEntry
 // Variable de solo lectura que se genera y asigna en tiempo de compilación.
 const val PI = 3.1416
 
@@ -52,5 +46,11 @@ fun main (args: Array<String>) {
     // dataEntry()
     // triggerClasses()
     // triggerclasses2()
-    lists()
+    //lists()
+    //hashMaps()
+    // lambdas()
+    // functionRun()
+    //functionApply()
+    // functionAlso()
 }
+
